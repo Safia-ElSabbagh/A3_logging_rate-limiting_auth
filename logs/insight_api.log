@@ -1,0 +1,165 @@
+2026-10-12 18:05:20,160 - app.main - INFO - ============================================================
+2026-10-12 18:05:20,161 - app.main - INFO - InsightAPI starting up
+2026-10-12 18:05:20,162 - app.main - INFO - ============================================================
+2026-10-12 18:07:07,373 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 1/10
+2026-10-12 18:07:07,375 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:07:08,200 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:07:08,208 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:07:09,171 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 2/10
+2026-10-12 18:07:09,171 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:07:09,321 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:07:09,322 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:07:09,410 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 3/10
+2026-10-12 18:07:09,411 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:07:09,529 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:07:09,533 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:07:09,735 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 4/10
+2026-10-12 18:07:09,735 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:07:09,834 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:07:09,836 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:07:09,970 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 5/10
+2026-10-12 18:07:09,973 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:07:10,141 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:07:10,145 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:07:10,293 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 6/10
+2026-10-12 18:07:10,294 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:07:10,448 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:07:10,454 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:07:10,729 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 7/10
+2026-10-12 18:07:10,729 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:07:10,860 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:07:10,862 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:07:11,036 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 8/10
+2026-10-12 18:07:11,037 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:07:11,165 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:07:11,167 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:07:11,326 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 9/10
+2026-10-12 18:07:11,327 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:07:11,472 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:07:11,474 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:07:11,651 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 10/10
+2026-10-12 18:07:11,652 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:07:11,778 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:07:11,779 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:07:12,022 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:07:12,245 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:07:12,688 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:07:13,116 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:07:13,525 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:07:14,835 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:07:14,985 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:07:15,278 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:07:15,386 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:07:15,594 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:07:47,568 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:07:48,421 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:07:55,395 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:07:56,834 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:07:57,841 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:07:58,022 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:07:58,221 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:07:58,442 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:08:57,873 - app.main - INFO - ============================================================
+2026-10-12 18:08:57,874 - app.main - INFO - InsightAPI starting up
+2026-10-12 18:08:57,874 - app.main - INFO - ============================================================
+2026-10-12 18:09:11,291 - app.main - INFO - ============================================================
+2026-10-12 18:09:11,293 - app.main - INFO - InsightAPI starting up
+2026-10-12 18:09:11,293 - app.main - INFO - ============================================================
+2026-10-12 18:09:23,381 - app.main - INFO - ============================================================
+2026-10-12 18:09:23,382 - app.main - INFO - InsightAPI starting up
+2026-10-12 18:09:23,383 - app.main - INFO - ============================================================
+2026-10-12 18:09:40,310 - app.main - INFO - ============================================================
+2026-10-12 18:09:40,311 - app.main - INFO - InsightAPI starting up
+2026-10-12 18:09:40,312 - app.main - INFO - ============================================================
+2026-10-12 18:09:45,192 - app.main - INFO - ============================================================
+2026-10-12 18:09:45,192 - app.main - INFO - InsightAPI starting up
+2026-10-12 18:09:45,193 - app.main - INFO - ============================================================
+2026-10-12 18:10:17,502 - app.main - INFO - ============================================================
+2026-10-12 18:10:17,503 - app.main - INFO - InsightAPI starting up
+2026-10-12 18:10:17,503 - app.main - INFO - ============================================================
+2026-10-12 18:11:42,322 - app.utils.rate_limit - INFO - Rate Limit check passed for ali: 1/5
+2026-10-12 18:11:42,322 - app.main - INFO - generate | user=ali | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:11:42,931 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:11:42,936 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:14:28,269 - app.main - INFO - ============================================================
+2026-10-12 18:14:28,270 - app.main - INFO - InsightAPI starting up
+2026-10-12 18:14:28,270 - app.main - INFO - ============================================================
+2026-10-12 18:14:39,437 - app.main - INFO - ============================================================
+2026-10-12 18:14:39,438 - app.main - INFO - InsightAPI starting up
+2026-10-12 18:14:39,438 - app.main - INFO - ============================================================
+2026-10-12 18:16:50,591 - app.main - INFO - ============================================================
+2026-10-12 18:16:50,592 - app.main - INFO - InsightAPI starting up
+2026-10-12 18:16:50,593 - app.main - INFO - ============================================================
+2026-10-12 18:17:27,642 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 1/10
+2026-10-12 18:17:27,642 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:17:28,321 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:17:28,323 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:18:27,503 - app.main - INFO - ============================================================
+2026-10-12 18:18:27,504 - app.main - INFO - InsightAPI starting up
+2026-10-12 18:18:27,504 - app.main - INFO - ============================================================
+2026-10-12 18:18:37,219 - app.main - INFO - ============================================================
+2026-10-12 18:18:37,219 - app.main - INFO - InsightAPI starting up
+2026-10-12 18:18:37,220 - app.main - INFO - ============================================================
+2026-10-12 18:18:50,991 - app.main - INFO - ============================================================
+2026-10-12 18:18:50,991 - app.main - INFO - InsightAPI starting up
+2026-10-12 18:18:50,992 - app.main - INFO - ============================================================
+2026-10-12 18:18:54,270 - app.main - INFO - ============================================================
+2026-10-12 18:18:54,270 - app.main - INFO - InsightAPI starting up
+2026-10-12 18:18:54,271 - app.main - INFO - ============================================================
+2026-10-12 18:19:05,847 - app.main - INFO - ============================================================
+2026-10-12 18:19:05,848 - app.main - INFO - InsightAPI starting up
+2026-10-12 18:19:05,848 - app.main - INFO - ============================================================
+2026-10-12 18:19:11,114 - app.main - INFO - ============================================================
+2026-10-12 18:19:11,115 - app.main - INFO - InsightAPI starting up
+2026-10-12 18:19:11,115 - app.main - INFO - ============================================================
+2026-10-12 18:19:54,156 - app.main - INFO - ============================================================
+2026-10-12 18:19:54,157 - app.main - INFO - InsightAPI starting up
+2026-10-12 18:19:54,157 - app.main - INFO - ============================================================
+2026-10-12 18:20:02,280 - app.main - INFO - ============================================================
+2026-10-12 18:20:02,280 - app.main - INFO - InsightAPI starting up
+2026-10-12 18:20:02,280 - app.main - INFO - ============================================================
+2026-10-12 18:20:27,081 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 1/10
+2026-10-12 18:20:27,082 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:20:27,619 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:20:27,622 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:20:36,983 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 2/10
+2026-10-12 18:20:36,984 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:20:37,348 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:20:37,350 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:20:38,095 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 3/10
+2026-10-12 18:20:38,096 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:20:38,175 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:20:38,176 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:20:38,319 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 4/10
+2026-10-12 18:20:38,320 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:20:38,472 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:20:38,474 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:20:39,351 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 5/10
+2026-10-12 18:20:39,351 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:20:39,496 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:20:39,498 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:20:51,552 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 6/10
+2026-10-12 18:20:51,553 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:20:51,988 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:20:52,024 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:20:52,837 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 7/10
+2026-10-12 18:20:52,837 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:20:52,913 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:20:52,914 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:20:53,429 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 8/10
+2026-10-12 18:20:53,430 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:20:53,525 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:20:53,526 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:20:54,023 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 9/10
+2026-10-12 18:20:54,024 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:20:54,142 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:20:54,143 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:20:54,696 - app.utils.rate_limit - INFO - Rate Limit check passed for ahmed: 10/10
+2026-10-12 18:20:54,696 - app.main - INFO - generate | user=ahmed | model=qwen2.5:1.5b | temp=0.70
+2026-10-12 18:20:54,855 - httpx2 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-12 18:20:54,857 - app.services.llm - ERROR - LLM call failed | model=qwen2.5:1.5b | error=Error code: 404 - {'error': {'message': 'The model `qwen2.5:1.5b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-12 18:20:55,004 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:20:55,373 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:20:55,691 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:20:56,076 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-12 18:20:56,448 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
