@@ -163,3 +163,6 @@
 2026-10-12 18:20:55,691 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
 2026-10-12 18:20:56,076 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
 2026-10-12 18:20:56,448 - app.utils.rate_limit - WARNING - Rate Limit Exceeded for user: ahmed (10/10)
+2026-10-13 17:49:12,601 - app.main - INFO - ============================================================
+2026-10-13 17:49:12,603 - app.main - INFO - InsightAPI starting up
+2026-10-13 17:49:12,603 - app.main - INFO - ============================================================
